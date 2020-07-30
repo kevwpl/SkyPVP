@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="KitPVP" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54718b1c-a52e-4e59-93d7-5418bb780bfe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fQExLUX7ZIg5fd7uq2wTubmeLV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ServerNetzwerk/kitpvp/plugins" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54718b1c-a52e-4e59-93d7-5418bb780bfe" name="Default Changelist" comment="" />
+      <created>1596142161638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596142161638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1596142725727">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1596142725727" />
+    <state x="-1254" y="281" key="FileChooserDialogImpl" timestamp="1596144763084">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1254" y="281" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1596144763084" />
+    <state x="666" y="281" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1596142221903" />
+    <state x="-1480" y="114" key="SettingsEditor" timestamp="1596144871707">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1480" y="114" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1596144871707" />
+    <state x="440" y="114" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1596142242377" />
+    <state x="-1304" y="250" key="run.anything.popup" timestamp="1596144727242">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1304" y="250" key="run.anything.popup/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1596144727242" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596145566049">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1596145566049" />
+  </component>
+</project>

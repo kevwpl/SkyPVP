@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KitPVP">
+    <output-path>$USER_HOME$/Desktop/ServerNetzwerk/kitpvp/plugins</output-path>
+    <root id="archive" name="KitPVP.jar">
+      <element id="module-output" name="KitPVP" />
+    </root>
+  </artifact>
+</component>

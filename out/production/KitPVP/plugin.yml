@@ -1,0 +1,9 @@
+name: KitPvP
+author: kevwpl
+main: at.kevwpl.Main
+version: 0.1
+commands:
+  kit:
+    usage: /<command>
+  kits:
+    usage: /<command>
